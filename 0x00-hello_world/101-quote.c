@@ -9,4 +9,3 @@ int main(void)
 	fput("place of art is usefull\" , Dora Korpar, 2015-10-2019\n", stdout);
 return (1);
 }
-
